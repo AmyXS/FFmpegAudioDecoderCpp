@@ -1,6 +1,10 @@
 # FFmpegAudioDecoderCpp
 
-A simple C++ wrapper for FFmpeg v4.1 Audio Decoder. This repo intends to serve as an example. Please refer to the offical FFmpeg documentation and code examples.
+A simple C++ wrapper for FFmpeg v4.1 Audio Decoder. 
+
+This repo intends to serve as a code example. This code was taken out of another project, where it proved to decode audio files. However, this repo isn't being actively maintained. Please refer to the offical FFmpeg documentation for more details.
+
+This code is created based on the FFmpeg code example doc/examples/decode_audio.c, with modifications so that it creates stereo output at specified sample rate, along with additional error messages.
 
 ## License
 The MIT License
