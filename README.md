@@ -1,6 +1,6 @@
 # FFmpegAudioDecoderCpp
 
-A simple C++ wrapper for FFmpeg v4.1 Audio Decoder
+A simple C++ wrapper for FFmpeg v4.1 Audio Decoder. This repo intends to serve as an example. Please refer to the offical FFmpeg documentation and code examples.
 
 ## License
 The MIT License
